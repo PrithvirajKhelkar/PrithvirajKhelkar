@@ -1,18 +1,27 @@
-<table>
-<tr>
-</tr>
-<tr>
-<td>
+<style>
+    .card {
+        position: relative;
+        width: 700px;
+        height: auto;
+    }
 
-<!-- [![Prithvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithvirajkhelkar)](https://github.com/prithvirajkhelkar/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=prithvirajkhelkar" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvirajkhelkar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    .top-left {
+        position:absolute;
+        left: 8px;
+        top: 8px;
+    }
 
-</td>
-<td>
+    .top-right {
+        position:absolute;
+        right: 8px;
+        top: 8px;
+    }
+</style>
 
-<img src="img/boi2.png"  width="600" height="600">
-
-</td>
-</tr>
-</table>
+<div class="card">
+    <img style="float: left;" src="img/boiiii.jpeg">
+    <div class="top-left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvirajkhelkar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    </div>
+    <div class="top-right"></div>
+</div>
