@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvirajkhelkar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=prithvirajkhelkar&show_icons=true&theme=dracula&count_private=true)
